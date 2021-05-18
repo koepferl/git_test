@@ -9,3 +9,4 @@ print(a, b, d)
 
 print('Summe aus a und b:', d)
 print('Summe aus c und b:', c+b)
+print('Summe aus a und c:', a+c)
