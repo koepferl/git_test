@@ -10,3 +10,6 @@ print(a, b, d)
 print('Summe aus a und b:', d)
 print('Summe aus c und b:', c+b)
 print('Summe aus a und c:', a+c)
+
+# code is from Christine Greif
+# date 18.6.21
