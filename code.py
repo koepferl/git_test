@@ -13,3 +13,6 @@ print('Summe aus a und c:', a+c)
 
 # code is from Christine Greif
 # date 18.6.21
+
+# nicht auf git
+print('Das ist noch nicht auf git')
